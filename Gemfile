@@ -1,6 +1,7 @@
 source "http://rubygems.org"
 
 group :development do
+  gem 'railsless-deploy'
   gem 'capistrano'
   gem 'thin'
   gem 'rake', '~> 0.9'
