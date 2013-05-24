@@ -8,18 +8,16 @@ set :copy_exclude, [".git", ".DS_Store", ".gitignore", ".gitmodules", ".rvmrc"]
 set :keep_releases, 3
 ssh_options[:forward_agent] = true
 
-=begin
-
-task :symlink do
+task :compile do
+  run 'gem install rake' unless Gem.available?('rake')
+  run 'run genereate'
 end
-
-=end
 
 set :stages, %w(dev prod)
 set :default_stage, "dev"
 require 'capistrano/ext/multistage'
 
 set :use_sudo, false
-#after "deploy", "symlink"
-after "symlink", "deploy:cleanup"
+after "deploy", "compile"
+after "compile", "deploy:cleanup"
 
