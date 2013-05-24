@@ -2,6 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     RedCloth (4.2.9)
+    cape (1.7.0)
     capistrano (2.15.4)
       highline
       net-scp (>= 1.0.0)
@@ -73,6 +74,7 @@ PLATFORMS
 
 DEPENDENCIES
   RedCloth (~> 4.2.9)
+  cape
   capistrano
   compass (~> 0.12.2)
   haml (~> 3.1.7)

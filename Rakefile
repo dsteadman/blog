@@ -210,6 +210,7 @@ end
 # Deploying  #
 ##############
 
+=begin
 desc "Default deploy task"
 task :deploy do
   # Check if preview posts exist, which should not be published
@@ -222,6 +223,7 @@ task :deploy do
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
 end
+=end
 
 desc "Generate website and deploy"
 task :gen_deploy => [:integrate, :generate, :deploy] do
