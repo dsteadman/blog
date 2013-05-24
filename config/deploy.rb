@@ -10,7 +10,7 @@ ssh_options[:forward_agent] = true
 
 task :compile do
   run 'gem install rake' unless Gem.available?('rake')
-  run 'run genereate'
+  run 'rake genereate'
 end
 
 set :stages, %w(dev prod)
