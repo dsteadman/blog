@@ -17,7 +17,5 @@ gem 'pocket-ruby'
 
 group :development do
   gem 'cape'
-  gem 'railsless-deploy'
-  gem 'capistrano'
   gem 'thin'
 end
