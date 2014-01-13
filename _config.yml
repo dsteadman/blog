@@ -101,7 +101,7 @@ facebook_like: true
 
 navigation:
   - text: Resume
-    url: /resume.html
+    url: /resume/index.html
 
   - text: Blog
     url: /nerd/index.html
