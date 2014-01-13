@@ -101,10 +101,10 @@ facebook_like: true
 
 navigation:
   - text: Resume
-    url: /resume/index.html
+    url: /resume
 
   - text: Blog
-    url: /nerd/index.html
+    url: /nerd
 
   - text: Music
-    url: /music/index.html
+    url: /music
