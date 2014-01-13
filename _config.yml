@@ -104,8 +104,7 @@ navigation:
     url: /resume.html
 
   - text: Blog
-    url: /blog.html
+    url: /nerd/index.html
 
-  - text: Photos
-    url: //flickr.com
-
+  - text: Music
+    url: /music/index.html
