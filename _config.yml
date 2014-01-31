@@ -103,8 +103,8 @@ navigation:
   - text: Resume
     url: /resume
 
-  - text: Blog
-    url: /nerd
-
-  - text: Music
-    url: /music
+#  - text: Blog
+#    url: /nerd
+#
+#  - text: Music
+#    url: /music
