@@ -5,12 +5,15 @@ date: 2014-01-29 16:37
 comments: true
 sharing: true
 displaydate: false
+displaytitle: false
 footer: true
 ---
 
 ### About Me
 
 <p class="squat">I am a self-taught web developer with nearly four years of agency and freelance experience. I prefer working in Ruby on Rails, however I also have extensive experience with Drupal, Wordpress and some experience with Django.</p>
+### Where I'm Headed
+<p class="squat">I'm interested primarily in Rails as an API and moving front-end to the client with frameworks such as Angular, Ember and Meteor</p>
 
 ## Technology
 * **Servers:** Nginx, Apache, Thin

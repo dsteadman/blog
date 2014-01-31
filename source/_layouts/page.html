@@ -3,8 +3,8 @@ layout: default
 ---
 
 <article role="article" class="{{ page.title }}">
-  {% if page.title %}
-  <header>
+  {% if page.title and page.displaytitle %}
+  <header class="document-header">
     <div class="jumbotron">
       {% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
     </div>
