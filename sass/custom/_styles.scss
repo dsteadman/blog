@@ -1,1 +1,23 @@
 // Add your custom styling here.
+
+.resume {
+  ul {
+    list-style:none;
+
+    li {
+      line-height:1.3;
+    }
+  }
+}
+
+.resume {
+  h2 {
+    text-transform:uppercase;
+  }
+  dt {
+    margin:10px 0 5px;
+  }
+}
+.squat {
+  line-height:1.25;
+}
