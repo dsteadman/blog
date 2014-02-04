@@ -1,4 +1,4 @@
-#dansteadman.com
+# dansteadman.com
 
 Running Octopress ([Docs](http://octopress.org/docs/blogging/))
 
