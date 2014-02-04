@@ -91,22 +91,6 @@ h3.filename {
   + pre { @include border-top-radius(0px); }
 }
 
-p, li {
-  //code {
-  //  @extend .mono;
-  //  display: inline-block;
-  //  white-space: no-wrap;
-  //  background: #fff;
-  //  font-size: .6em;
-  //  color: #555;
-  //  border: 1px solid #ddd;
-  //  @include border-radius(.4em);
-  //  padding: 0 .3em;
-  //  margin: -1px 0;
-  //}
-  //pre code { font-size: 1em !important; background: none; border: none; }
-}
-
 .pre-code {
   font-family: $mono !important;
   overflow: scroll;
