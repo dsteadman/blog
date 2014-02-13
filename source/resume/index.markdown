@@ -65,16 +65,16 @@ footer: true
   <h3>Wordpress</h3>
   <dl>
   <dt><a target="_blank" href="http://novarica.com">Novarica</a></dt>
-  <dd>Built with Wordpress. I used this as an opportunity to practice use of <a target="_blank" href="http://yepnopejs.com/">yepnope</a>, dynamic script loaders, browser feature detection with Modernizr and creation of Javascript-only fallbacks for older browsers.</dd>
+  <dd>I used this as an opportunity to practice use of <a target="_blank" href="http://yepnopejs.com/">yepnope</a>, dynamic script loaders, browser feature detection with Modernizr and creation of Javascript-only fallbacks for older browsers.</dd>
 
   <dt><a target="_blank" href="http://jpbfoundation.org">JPB Foundation</a></dt>
-  <dd>Built with Wordpress. A chance to practice use of <a target="_blank" href="http://compass-style.org/">Compass</a> with Wordpress.</dd>
+  <dd>A chance to practice use of <a target="_blank" href="http://compass-style.org/">Compass</a> with Wordpress.</dd>
 
   <dt><a target="_blank" href="http://ypo.org">Young Presidents Organization</a></dt>
-  <dd>Built with Wordpress. Heavy use of AJAX, and mobile optimization of complex vector grapics and animation</dd> 
+  <dd>Heavy use of AJAX, and mobile optimization of complex vector grapics and animation</dd> 
 
   <dt><a target="_blank" href="http://carrotnewyork.com">Carrot New York</a></dt>
-  <dd>Built with Wordpress. As one of my earlier projects, I used this project as an opportunity to practice creation of image sprites, and creation of Wordpress child themes</dd>
+  <dd>As one of my earlier projects, I used this project as an opportunity to practice creation of image sprites, and creation of Wordpress child themes</dd>
   </dl>
 
   <h3>Django</h3>
