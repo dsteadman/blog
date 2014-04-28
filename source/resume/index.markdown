@@ -20,8 +20,9 @@ footer: true
   <h3>Frameworks (by language)</h3>
 
   <ul>
+  <li><b>Javsacript:</b> Backbone.js</li>
   <li><b>Ruby:</b> Rails, Spree (Rails e-commerce)</li>
-  <li><b>Python:</b> Django, Mezzanine</li>
+  <li><b>Python:</b> Django, Mezzanine, Flask</li>
   <li><b>PHP:</b> Drupal, Wordpress</li>
   </ul>
 
@@ -84,6 +85,13 @@ footer: true
 
   <dt><a target="_blank" href="http://hospitalityq.com/">Hospitality Quotient</a></dt>
   <dd>My first exposure to Mezzanine.</dd> 
+  </dl>
+  
+  
+  <h3>Flask</h3>
+  <dl>
+  <dt><a target="_blank" href="http://alphaworks.net/">Alphaworks</a></dt>
+  <dd>Flask serverside with a mix of Backbone, tied together with Require.js</dd> 	 
   </dl>
 
   <h3>Drupal</h3>
