@@ -11,8 +11,7 @@ footer: true
 
 <section class="about section">
   <h2>About Me</h2>
-  <p class="squat">I am a self-taught web developer with nearly four years of agency and freelance experience. I have experience working in Ruby on Rails, Django, Drupal and Wordpress.</p>
-  <p class="squat">I'm always excited to learn new technology and, as a side project, I am currently working on a building a JSON API and connecting it to an Angular front-end.</p>
+  <p class="squat">I am a self-taught web developer with over four years of experience working in Ruby on Rails, Django, Drupal, Flask, Backbone.js, and Wordpress.</p>
 </section>
 
 <section class="technology section">
@@ -111,7 +110,7 @@ footer: true
   <h4>Web Developer<br />
   Mar 2014 – Present<br />
   New York, NY</h4>
-  <p>Brought on as a front-end developer, I am transitioning to full-stack role.</p>
+  <p>Brought on as a front-end developer, I am gaining experience in Flask, SQLAlchemy, and Backbone.js and transitioning to full-stack role.</p>
 
   <h3>Blenderbox</h3>
   <h4>Web Developer<br />
