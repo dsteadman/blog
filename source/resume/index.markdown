@@ -106,6 +106,12 @@ footer: true
 
 <section class="employment section">
   <h2>Employment</h2>
+  
+  <h3>Alphaworks</h3>
+  <h4>Web Developer<br />
+  Mar 2014 – Present<br />
+  New York, NY</h4>
+  <p>Brought on as a front-end developer, I am transitioning to full-stack role.</p>
 
   <h3>Blenderbox</h3>
   <h4>Web Developer<br />
