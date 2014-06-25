@@ -56,7 +56,7 @@ footer: true
   <dd>New concepts learned from this project include: extending rails with engines, SOAP API integration, creation of multi-page wizards, complex back-end coding, complex database design principles such as polymorphic relationships</dd>
 
   <dt><a target="_blank" href="http://nyccollegeline.com">NYC College Line</a></dt>
-  <dd>As one of the first Rails projects I contributed to, this was an excellent opportunity to practice basic databse design and use of AJAX in Rails 3</dd>
+  <dd>As one of the first Rails projects I contributed to, this was an excellent opportunity to practice basic database design and use of AJAX in Rails 3</dd>
 
   <dt><a target="_blank" href="http://cacm.acm.org">Communications of the ACM</a></dt>
   <dd>Exposure to <a target="_blank" href="http://www.oracle.com/us/products/database/overview/index.html">Oracle</a>, and <a target="_blank" href="http://www.google.com/enterprise/search/products/gsa.html">Google Search Applicance</a> integration, <a target="_blank" href="http://www.redhat.com/products/enterprise-linux/">RHEL</a>, and complex nginx configuration. As an older project this was a great chance to learn about how Rails has grown and changed since Rails 2</dd>
