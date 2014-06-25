@@ -29,7 +29,7 @@ footer: true
 
   <ul>
   <li><b>Servers:</b> Nginx, Apache</li>
-  <li><b>Databses:</b> MySQL, PostgreSQL, SQLite, Oracle</li>
+  <li><b>Databases:</b> MySQL, PostgreSQL, SQLite, Oracle</li>
   <li><b>Metrics:</b> New Relic, Linode Longview, Google Analytics</li>
   </ul>
 
@@ -115,7 +115,7 @@ footer: true
   <h3>Blenderbox</h3>
   <h4>Web Developer<br />
   Apr 2011 – Jan 2014<br />
-  Brooklyn , NY</h4>
+  Brooklyn, NY</h4>
 
   <ul>
   <li>Incorporate conceptual design and list of requirements to produce final website</li>
